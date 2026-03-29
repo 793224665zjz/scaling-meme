@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scaling Meme</string>
+    <string name="welcome_message">Welcome to Scaling Meme!</string>
+    <string name="button_click">Click Me!</string>
+</resources>
